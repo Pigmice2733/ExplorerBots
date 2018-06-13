@@ -1,14 +1,12 @@
-# Scout-CAD
+# Explorer Bots
 
-![assembled robot](https://github.com/Pigmice2733/Scout-CAD/blob/master/images/robot-fusion.PNG)
+This is a repository for the Explorers to provide recources when working with their robots at home.
 
-This is the CAD for our fisrt educational robot. I designed the robot in Fusion 360 and converted the model to Solidworks. The full assembly is in the .step format. 
+### Software
 
-| Part Color | Solidworks File |
-| ---------- | --------------- |
-| Purple | wheel.SLDPRT |
-| Red | top.SLDPRT |
-| Green | chassis.SLDPRT |
-| Yellow | 0.28.SLDPRT |
+### Programmming
 
-The whole Solidworks assembly is saved as Robot V17.SLDASM
+### Robot Hardware
+
+### Troubleshooting
+
