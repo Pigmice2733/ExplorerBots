@@ -23,7 +23,7 @@ jumper wires | https://www.addicore.com/Female-Female-Jumper-Wires-40-x-200mm-7-
 battery case | https://www.sparkfun.com/products/12083
 wheels | https://www.addicore.com/Wheel-for-TT-Motor-p/ad480.htm
 
-# Note
+#### Note
 The robot only uses 15 jumper wires however they come in packs of 40. Make sure to buy two wheels. You will need 4 AA batteries, hot glue gun and some card board to build your robot. A computer is also needed to program the robot any OS will work.  
 ### Troubleshooting
 
